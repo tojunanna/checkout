@@ -1,3 +1,3 @@
 # checkout
 
-https://tojunanna.github.io/checkout/.
+https://tojunanna.github.io/checkout/
